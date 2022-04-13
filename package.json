@@ -1,0 +1,28 @@
+{
+  "name": "@brpereyra/2fa-topt",
+  "version": "0.0.1",
+  "description": "module for 2FA authentication services",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brpereyra/2fa-topt.git"
+  },
+  "keywords": [
+    "2fa",
+    "topt",
+    "google-autheticator",
+    "temporal-code"
+  ],
+  "author": "bryan pereyra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brpereyra/2fa-topt/issues"
+  },
+  "homepage": "https://github.com/brpereyra/2fa-topt#readme",
+  "dependencies": {
+    "totp-generator": "^0.0.13"
+  }
+}
